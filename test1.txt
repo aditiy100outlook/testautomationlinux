@@ -5,4 +5,8 @@ test1
 uihlijo;.okp
 nhikjni
 hytfhvgtjygthj
+<<<<<<< HEAD
+>>>>>>> main
+=======
+poop;
 >>>>>>> main
